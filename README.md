@@ -1,7 +1,7 @@
 # Assignment1-SOFE3650U
 Design Patterns
 UML Diagram:
-<img width="913" height="732" alt="image" src="https://github.com/user-attachments/assets/fca47064-ddee-4b13-8aee-954e1bd74eb7" />
+<img width="952" height="737" alt="image" src="https://github.com/user-attachments/assets/63b47f32-4c52-42d7-a85a-acfcca9c1647" />
 
 Our Repository comes as a package for running our Smart Device Factory.
 
