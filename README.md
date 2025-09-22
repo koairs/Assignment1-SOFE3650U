@@ -17,7 +17,7 @@ within the classes themselves, allowing for different values dependant on their 
 We also used the abstract factory method to create both brands of smart devices, relying
 on interfaces instead of concrete classes to decouple the various lock and bulb classes.
 
-Our main method is listed as the CustomerPortal class, with some basic output to display
+Our main method is within the CustomerPortal class, with some basic output to display
 that the code is running seamlessly.
 
 We also used JUnit to test specifics within the program, such as if objects are created
