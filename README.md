@@ -1,5 +1,6 @@
 # Assignment1-SOFE3650U
 Design Patterns
+
 UML Diagram:
 <img width="952" height="737" alt="image" src="https://github.com/user-attachments/assets/63b47f32-4c52-42d7-a85a-acfcca9c1647" />
 
@@ -26,3 +27,4 @@ screenshots from the IDE showcasing our program passing all basic test cases. Al
 cases can be found under CustomerPortalTest.
 
 <img width="831" height="149" alt="image" src="https://github.com/user-attachments/assets/c1dc2d6b-31f4-4382-b8aa-47749956ea21" />
+
